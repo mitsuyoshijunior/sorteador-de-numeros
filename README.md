@@ -10,4 +10,5 @@
   <li>JavaScript</li>
 </ul>
 <h2>Acesso ao projeto pronto:</h2>
-sorteador-de-numeros-beige.vercel.app
+[sorteador-de-numeros-beige.vercel.app
+](https://sorteador-de-numeros-kdtzzpeje-mitsuyoshijuniors-projects.vercel.app/)
