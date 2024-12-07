@@ -9,5 +9,5 @@
   <li>CSS</li>
   <li>JavaScript</li>
 </ul>
-<h2>Acesso ao projeto pronto:</h2>
-(https://sorteador-de-numeros-beige.vercel.app/)
+<h2>Acesse a aplicação</h2>
+https://sorteador-de-numeros-beige.vercel.app/
